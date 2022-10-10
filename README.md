@@ -1,4 +1,4 @@
-### Hi there 👋
+### OwO
 
 <!--
 **stargan2vc/stargan2vc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
